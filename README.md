@@ -1,4 +1,4 @@
-The code provided is set to run for Graph G2, to run it on GraphG1, change "createG2()" on "line #742" to "createG1()" to change the Graph type to G1
+The code provided is set to run for Dense Graph (G2), to run it on Sparse Graph (G1), change "createG2()" on "line #742" to "createG1()" to change the Graph type to G1
 
 
 
